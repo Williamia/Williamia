@@ -1,6 +1,7 @@
 ### Olá, meu nome é William 👋
 
 - ✏️ Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
+- ✏️ Systems Development Technician graduated from Etec de Guaianazes, currently studying Systems Analysis and Development (ADS) at SPTECH Digital School.
 <!-- 💬 Ask me about ...-->
 - 🏀 Entusiasta de esportes
 - 🎧 Apaixonado por música
