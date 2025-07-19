@@ -6,6 +6,7 @@
 <!-- 💬 Ask me about ...-->
 -  QA Automation Engineer at Shuffle Up
 - ✉️ Wiusk8@gmail.com
+- https://www.linkedin.com/in/william-matos-dev/
 
 <div align="center">
   <a href="[https://github.com/william5827](https://github.com/Williamia)">
