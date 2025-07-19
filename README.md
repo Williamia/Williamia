@@ -1,7 +1,8 @@
 ### Olá, meu nome é William/ Hi, My name is William 👋
 
-- ✏️ Systems Development Technician graduated from Etec de Guaianazes, currently studying Systems Analysis and Development (ADS) at SPTECH Digital School.
-- ✏️ Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
+- ✏️ Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes / Systems Development Technician graduated at Etec de Guaianazes
+- ✏️ Tecnólogo em Análise e Desenvolvimento de sistemas(ADS) formado na SPTECH Digital School /  Systems Analysis and Development Technologist (ADS) graduated at SPTECH Digital School 
+- ✏️ Atualmente cursando ciência da computação em University of the People / Currently studying Computer science at University of the People
 <!-- 💬 Ask me about ...-->
 -  QA Automation Engineer at Shuffle Up
 - ✉️ Wiusk8@gmail.com
