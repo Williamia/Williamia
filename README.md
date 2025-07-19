@@ -3,8 +3,7 @@
 - ✏️ Systems Development Technician graduated from Etec de Guaianazes, currently studying Systems Analysis and Development (ADS) at SPTECH Digital School.
 - ✏️ Técnico em Desenvolvimento de Sistemas formado na Etec de Guaianazes, atualmente cursando Análise e Desenvolvimento de sistemas(ADS) na SPTECH Digital School.
 <!-- 💬 Ask me about ...-->
-- 🏀 Entusiasta de esportes
-- 🎧 Apaixonado por música
+-  QA Automation Engineer at Shuffle Up
 - ✉️ Wiusk8@gmail.com
 
 <div align="center">
